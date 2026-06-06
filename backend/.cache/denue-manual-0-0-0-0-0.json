@@ -1,0 +1,15 @@
+{
+  "savedAt": 1780770794958,
+  "value": {
+    "ok": false,
+    "source": "synthetic_fallback",
+    "businesses": [],
+    "sectors": {
+      "restaurantes": 12,
+      "hoteles": 4,
+      "comercio": 16,
+      "transporte": 5
+    },
+    "diagnostics": "DENUE no respondio correctamente: fetch failed"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "savedAt": 1780775890455,
+  "value": {
+    "ok": false,
+    "occupancyRate": 0.68,
+    "touristArrivalFactor": 1.12,
+    "source": "synthetic_fallback",
+    "note": "Parametro demo usado si DataTur no entrega una tabla consultable automaticamente.",
+    "diagnostics": "fetch failed"
+  }
+}
