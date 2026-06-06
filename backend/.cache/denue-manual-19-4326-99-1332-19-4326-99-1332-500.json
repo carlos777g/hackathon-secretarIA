@@ -1,0 +1,716 @@
+{
+  "savedAt": 1780771103112,
+  "value": {
+    "ok": true,
+    "source": "denue_api",
+    "count": 5703,
+    "sectors": {
+      "comercio": 5214,
+      "restaurantes": 416,
+      "transporte": 27,
+      "hoteles": 46
+    },
+    "businesses": [
+      {
+        "name": "EDICIONES FISCALES ISEF",
+        "activity": "Comercio al por menor de libros",
+        "sector": "comercio",
+        "lat": 19.43322679,
+        "lng": -99.1332307
+      },
+      {
+        "name": "EDITORIAL PANETA",
+        "activity": "Comercio al por menor de libros",
+        "sector": "comercio",
+        "lat": 19.43261679,
+        "lng": -99.13245158
+      },
+      {
+        "name": "SELECTOR",
+        "activity": "Comercio al por menor de libros",
+        "sector": "comercio",
+        "lat": 19.43261679,
+        "lng": -99.13245158
+      },
+      {
+        "name": "LECTORUM",
+        "activity": "Comercio al por menor de libros",
+        "sector": "comercio",
+        "lat": 19.43267141,
+        "lng": -99.13244496
+      },
+      {
+        "name": "LECTORUM",
+        "activity": "Comercio al por menor de libros",
+        "sector": "comercio",
+        "lat": 19.43267141,
+        "lng": -99.13244496
+      },
+      {
+        "name": "EDITORIAL PRAIDOS",
+        "activity": "Comercio al por menor de libros",
+        "sector": "comercio",
+        "lat": 19.43267141,
+        "lng": -99.13244496
+      },
+      {
+        "name": "EDITORIAL WINBOOK",
+        "activity": "Comercio al por menor de libros",
+        "sector": "comercio",
+        "lat": 19.43268037,
+        "lng": -99.13244388
+      },
+      {
+        "name": "EDITORIAL TODOS A LEER",
+        "activity": "Comercio al por menor de libros",
+        "sector": "comercio",
+        "lat": 19.43268037,
+        "lng": -99.13244388
+      },
+      {
+        "name": "LOGMAN DE MEXICO",
+        "activity": "Comercio al por menor de libros",
+        "sector": "comercio",
+        "lat": 19.43268037,
+        "lng": -99.13244388
+      },
+      {
+        "name": "EDITORIAL PATRIA",
+        "activity": "Comercio al por menor de libros",
+        "sector": "comercio",
+        "lat": 19.43269829,
+        "lng": -99.1324417
+      },
+      {
+        "name": "SM EDICIONES",
+        "activity": "Comercio al por menor de libros",
+        "sector": "comercio",
+        "lat": 19.43270725,
+        "lng": -99.13244062
+      },
+      {
+        "name": "DULCERIA",
+        "activity": "Comercio al por menor de dulces y materias primas para repostería",
+        "sector": "comercio",
+        "lat": 19.43273414,
+        "lng": -99.13243736
+      },
+      {
+        "name": "ARTICULOS DE BELLEZA VICKY",
+        "activity": "Comercio al por menor de artículos de perfumería y cosméticos",
+        "sector": "comercio",
+        "lat": 19.43273414,
+        "lng": -99.13243736
+      },
+      {
+        "name": "TARIMAS DE AGUAS 1",
+        "activity": "Comercio al por menor de bebidas no alcohólicas y hielo",
+        "sector": "comercio",
+        "lat": 19.43277082,
+        "lng": -99.13243291
+      },
+      {
+        "name": "CILINDRO DE DULCES",
+        "activity": "Comercio al por menor de otros alimentos",
+        "sector": "restaurantes",
+        "lat": 19.43278875,
+        "lng": -99.13243074
+      },
+      {
+        "name": "PUESTO DE AGUAS 3",
+        "activity": "Comercio al por menor de bebidas no alcohólicas y hielo",
+        "sector": "comercio",
+        "lat": 19.4327977,
+        "lng": -99.13242965
+      },
+      {
+        "name": "TARIMA DE AGUAS 2",
+        "activity": "Comercio al por menor de bebidas no alcohólicas y hielo",
+        "sector": "comercio",
+        "lat": 19.43280666,
+        "lng": -99.13242857
+      },
+      {
+        "name": "LOTERIA Y PRONOSTICOS",
+        "activity": "Venta de billetes de lotería, pronósticos deportivos y otros boletos de sorteo",
+        "sector": "comercio",
+        "lat": 19.43282459,
+        "lng": -99.13242639
+      },
+      {
+        "name": "ARTICULOS DE PIEL",
+        "activity": "Comercio al por menor de ropa de cuero y piel y de otros artículos de estos materiales",
+        "sector": "comercio",
+        "lat": 19.43283355,
+        "lng": -99.13242531
+      },
+      {
+        "name": "TOMO BOOKS MX",
+        "activity": "Comercio al por menor de libros",
+        "sector": "comercio",
+        "lat": 19.43284335,
+        "lng": -99.13242412
+      },
+      {
+        "name": "LIBRERIA OCEANO",
+        "activity": "Comercio al por menor de libros",
+        "sector": "comercio",
+        "lat": 19.43284335,
+        "lng": -99.13242412
+      },
+      {
+        "name": "LIBRERIA RANDOM HOUSE MONDADORI",
+        "activity": "Comercio al por menor de libros",
+        "sector": "comercio",
+        "lat": 19.43285232,
+        "lng": -99.13242303
+      },
+      {
+        "name": "LIBRERIA UNAM",
+        "activity": "Comercio al por menor de libros",
+        "sector": "comercio",
+        "lat": 19.43285232,
+        "lng": -99.13242303
+      },
+      {
+        "name": "EDITORIAL EPOCA",
+        "activity": "Comercio al por mayor de libros",
+        "sector": "comercio",
+        "lat": 19.43285232,
+        "lng": -99.13242303
+      },
+      {
+        "name": "LECTURAMA",
+        "activity": "Comercio al por menor de libros",
+        "sector": "comercio",
+        "lat": 19.43218329,
+        "lng": -99.13250413
+      },
+      {
+        "name": "EDICIONES LEYENDA",
+        "activity": "Comercio al por menor de libros",
+        "sector": "comercio",
+        "lat": 19.43287024,
+        "lng": -99.13242086
+      },
+      {
+        "name": "PARCIFAL Y EDICIONES Y DISTRIBUCIONES",
+        "activity": "Comercio al por menor de libros",
+        "sector": "comercio",
+        "lat": 19.43287024,
+        "lng": -99.13242086
+      },
+      {
+        "name": "CALIGRAMA LIBROS",
+        "activity": "Comercio al por menor de libros",
+        "sector": "comercio",
+        "lat": 19.43287024,
+        "lng": -99.13242086
+      },
+      {
+        "name": "LAROUSSE LIBRERIA",
+        "activity": "Comercio al por menor de libros",
+        "sector": "comercio",
+        "lat": 19.4328792,
+        "lng": -99.13241977
+      },
+      {
+        "name": "LOCAL DE FRITURAS",
+        "activity": "Comercio al por menor de otros alimentos",
+        "sector": "restaurantes",
+        "lat": 19.4328792,
+        "lng": -99.13241977
+      },
+      {
+        "name": "DULCERIA",
+        "activity": "Comercio al por menor de dulces y materias primas para repostería",
+        "sector": "comercio",
+        "lat": 19.43289712,
+        "lng": -99.1324176
+      },
+      {
+        "name": "GRUPO ESFINGE",
+        "activity": "Comercio al por menor de libros",
+        "sector": "comercio",
+        "lat": 19.43289712,
+        "lng": -99.1324176
+      },
+      {
+        "name": "LIBRERIA ESFINGE",
+        "activity": "Comercio al por menor de libros",
+        "sector": "comercio",
+        "lat": 19.43212317,
+        "lng": -99.1338815
+      },
+      {
+        "name": "PRODUCTOS NATURISTAS CM - 15",
+        "activity": "Comercio al por menor de productos naturistas, medicamentos homeopáticos y de complementos alimenticios",
+        "sector": "comercio",
+        "lat": 19.43291504,
+        "lng": -99.13241543
+      },
+      {
+        "name": "CILINDRO DE DULCES Y AGUA",
+        "activity": "Comercio al por menor de dulces y materias primas para repostería",
+        "sector": "comercio",
+        "lat": 19.43291504,
+        "lng": -99.13241543
+      },
+      {
+        "name": "ESTACION DE LECTURA",
+        "activity": "Bibliotecas y archivos del sector público",
+        "sector": "comercio",
+        "lat": 19.432924,
+        "lng": -99.13241434
+      },
+      {
+        "name": "TORTAS",
+        "activity": "Restaurantes con servicio de preparación de tacos y tortas",
+        "sector": "restaurantes",
+        "lat": 19.432924,
+        "lng": -99.13241434
+      },
+      {
+        "name": "TARIMA DE AGUA 3",
+        "activity": "Comercio al por menor de bebidas no alcohólicas y hielo",
+        "sector": "comercio",
+        "lat": 19.432924,
+        "lng": -99.13241434
+      },
+      {
+        "name": "METROPOLITAN COFFEE",
+        "activity": "Cafeterías, fuentes de sodas, neverías, refresquerías y similares",
+        "sector": "restaurantes",
+        "lat": 19.432924,
+        "lng": -99.13241434
+      },
+      {
+        "name": "FONDO DE LECTURA ESTACION DE LECTURA",
+        "activity": "Comercio al por menor de libros",
+        "sector": "comercio",
+        "lat": 19.4329283,
+        "lng": -99.13241382
+      },
+      {
+        "name": "CIBERCENTRO",
+        "activity": "Servicios de acceso a computadoras",
+        "sector": "transporte",
+        "lat": 19.43292847,
+        "lng": -99.1324138
+      },
+      {
+        "name": "LOCAL DE COMIDA",
+        "activity": "Comercio al por menor de otros alimentos",
+        "sector": "restaurantes",
+        "lat": 19.43293297,
+        "lng": -99.13241326
+      },
+      {
+        "name": "AGUAS ALEJANDRO",
+        "activity": "Comercio al por menor de bebidas no alcohólicas y hielo",
+        "sector": "comercio",
+        "lat": 19.43293297,
+        "lng": -99.13241326
+      },
+      {
+        "name": "LOCAL AGUA",
+        "activity": "Comercio al por menor de bebidas no alcohólicas y hielo",
+        "sector": "comercio",
+        "lat": 19.43293297,
+        "lng": -99.13241326
+      },
+      {
+        "name": "DESAYUNOS",
+        "activity": "Restaurantes con servicio de preparación de tacos y tortas",
+        "sector": "restaurantes",
+        "lat": 19.43293297,
+        "lng": -99.13241326
+      },
+      {
+        "name": "EDITORES MEXICANOS UNIDOS SA",
+        "activity": "Comercio al por menor de libros",
+        "sector": "comercio",
+        "lat": 19.43293297,
+        "lng": -99.13241326
+      },
+      {
+        "name": "ACCESORIAS PARA CELULAR",
+        "activity": "Comercio al por menor de teléfonos y otros aparatos de comunicación",
+        "sector": "comercio",
+        "lat": 19.43293297,
+        "lng": -99.13241326
+      },
+      {
+        "name": "PANADERIA SIN NOMBRE",
+        "activity": "Comercio al por menor de otros alimentos",
+        "sector": "restaurantes",
+        "lat": 19.43293382,
+        "lng": -99.13241316
+      },
+      {
+        "name": "COMERCIO AL POR MENOR DE DULCES Y MATERIAS PRIMAS PARA REPOSTERÍA SIN NOMBRE",
+        "activity": "Comercio al por menor de dulces y materias primas para repostería",
+        "sector": "comercio",
+        "lat": 19.43293382,
+        "lng": -99.13241316
+      },
+      {
+        "name": "EDICIONES SM",
+        "activity": "Comercio al por menor de libros",
+        "sector": "comercio",
+        "lat": 19.43294787,
+        "lng": -99.13241145
+      },
+      {
+        "name": "CILINDRO DE DULCES OCALO",
+        "activity": "Comercio al por menor de dulces y materias primas para repostería",
+        "sector": "comercio",
+        "lat": 19.4329607,
+        "lng": -99.1324099
+      },
+      {
+        "name": "K COSMOCOLOR ZOCALO A",
+        "activity": "Comercio al por menor de equipo y material fotográfico",
+        "sector": "comercio",
+        "lat": 19.43297564,
+        "lng": -99.13241067
+      },
+      {
+        "name": "ESTACION DEL METRO ZOCALO TENOCHTITLAN",
+        "activity": "Transporte colectivo urbano y suburbano de pasajeros en metro",
+        "sector": "transporte",
+        "lat": 19.43301339,
+        "lng": -99.13242264
+      },
+      {
+        "name": "EDITORIAL PLANETA MEXICANA",
+        "activity": "Comercio al por menor de libros",
+        "sector": "comercio",
+        "lat": 19.43348944,
+        "lng": -99.13308451
+      },
+      {
+        "name": "PARROQUIA DE LA ASUNCION SAGRARIO METROPOLITANO",
+        "activity": "Asociaciones y organizaciones religiosas",
+        "sector": "transporte",
+        "lat": 19.43348526,
+        "lng": -99.13305019
+      },
+      {
+        "name": "LIBRERIA SAN PABLO",
+        "activity": "Comercio al por menor de artículos religiosos",
+        "sector": "comercio",
+        "lat": 19.43349736,
+        "lng": -99.13314955
+      },
+      {
+        "name": "NORIEGA EDITORES",
+        "activity": "Comercio al por menor de libros",
+        "sector": "comercio",
+        "lat": 19.43347821,
+        "lng": -99.13299229
+      },
+      {
+        "name": "ARTICULOS RELIGIOSOS",
+        "activity": "Comercio al por menor de artículos religiosos",
+        "sector": "comercio",
+        "lat": 19.43350844,
+        "lng": -99.13324058
+      },
+      {
+        "name": "SECRETARIA DE OBRAS Y SERVICIOS",
+        "activity": "Regulación y fomento del desarrollo económico",
+        "sector": "comercio",
+        "lat": 19.43171187,
+        "lng": -99.13292563
+      },
+      {
+        "name": "SECRETARIA DE INCLUSION Y BIENESTAR SOCIAL",
+        "activity": "Actividades administrativas de instituciones de bienestar social",
+        "sector": "comercio",
+        "lat": 19.43171187,
+        "lng": -99.13292563
+      },
+      {
+        "name": "SECRETARIA DE ADMINISTRACION Y FINANZAS DE LA CDMX",
+        "activity": "Administración pública en general",
+        "sector": "comercio",
+        "lat": 19.43171187,
+        "lng": -99.13292563
+      },
+      {
+        "name": "SECRETARIA DEL MEDIO AMBIENTE",
+        "activity": "Regulación y fomento de actividades para mejorar y preservar el medio ambiente",
+        "sector": "comercio",
+        "lat": 19.43171187,
+        "lng": -99.13292563
+      },
+      {
+        "name": "SECRETARIA DE LA CIUDAD DE MEXICO",
+        "activity": "Administración pública en general",
+        "sector": "comercio",
+        "lat": 19.43171187,
+        "lng": -99.13292563
+      },
+      {
+        "name": "PUESTO DE PERIODICOS Y REVISTAS SIN NOMBRE",
+        "activity": "Comercio al por menor de revistas y periódicos",
+        "sector": "comercio",
+        "lat": 19.43352703,
+        "lng": -99.13339329
+      },
+      {
+        "name": "WC-ZOCALO",
+        "activity": "Sanitarios públicos y bolerías",
+        "sector": "comercio",
+        "lat": 19.43344692,
+        "lng": -99.13273534
+      },
+      {
+        "name": "JOYERIA DE DESCUENTO",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.43275939,
+        "lng": -99.13421167
+      },
+      {
+        "name": "RESTAURANTE PRIMER CUADRO",
+        "activity": "Restaurantes con servicio de preparación de alimentos a la carta o de comida corrida",
+        "sector": "restaurantes",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "DSKY",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "COCINA CENTRAL 1812",
+        "activity": "Restaurantes que preparan otro tipo de alimentos para llevar",
+        "sector": "restaurantes",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "JOYERIA LA GITANA",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "JOYAS ANA PAU",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "JOYERIA LA PERLA",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "JOYERIA LA PERLA",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "EL SEÑOR DE LOS ANILLOS",
+        "activity": "Reparación y mantenimiento de otros artículos para el hogar y personales",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "JOYERIA DE DESCUENTO",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "JOYERIA ARMENTA",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "GOLDENBOY",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "INMOBILIARIA COHEN",
+        "activity": "Servicios de administración de bienes raíces",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "PLARETIA TAURO",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "JOYERIA LORI",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "LOVE PINK",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "JOYERIA MAGESTIC",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "JOYERIA DIVA",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "JOYERIA PARDO",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "D SKY",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "JOYERIA SHARON",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "JOYERIA VICKI",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "JOYERIA BOTTICELLI",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "MILANO",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "JOYERIA SHARON",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "JOYERIA MONTIEL",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "TALLER DE JOYERIA JOSE LUIS",
+        "activity": "Reparación y mantenimiento de otros artículos para el hogar y personales",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "KRANIA",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "JOYERIA A LABEL",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "ARTICULOS PARA JOYERIA Y RELOJERIA",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "JOYERIA JIMENA",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "DISTRIBUIDORA DE JOYAS",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "JOYERIA MEXICO",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "JOYERIA VENECIA",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      },
+      {
+        "name": "JOYERIA GR",
+        "activity": "Comercio al por menor de artículos de joyería y relojes",
+        "sector": "comercio",
+        "lat": 19.432705,
+        "lng": -99.13422092
+      }
+    ]
+  }
+}

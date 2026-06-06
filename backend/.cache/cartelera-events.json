@@ -1,0 +1,14 @@
+{
+  "savedAt": 1780775890348,
+  "value": {
+    "ok": false,
+    "source": {
+      "id": "cartelera",
+      "name": "Cartelera CDMX",
+      "url": "https://cartelera.cdmx.gob.mx/busqueda",
+      "use": "Festividades y eventos"
+    },
+    "events": [],
+    "diagnostics": "No fue posible consultar Cartelera CDMX: fetch failed"
+  }
+}
