@@ -1,4 +1,8 @@
-# Byte-compiled / optimized / DLL foils
+# ==============================================================================
+# 1. PYTHON, STREAMLIT & VIRTUAL ENVIRONMENTS (Legacy / Root Analytics)
+# ==============================================================================
+
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
@@ -37,7 +41,58 @@ ENV/local/
 .streamlit/config.toml
 .streamlit/secrets.toml
 
-# Operating System Files
-.DS_Store
-Thumbs.db
 
+# ==============================================================================
+# 2. NODE.JS & REACT ECOSYSTEM (frontend/ & Future backend/)
+# ==============================================================================
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Build outputs (Vite/Next/CRA production targets)
+dist/
+tmp/
+out/
+.next/
+.nuxt/
+
+# Frontend/Backend configuration files and local secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Package managers lockfiles and cache directories
+.pnpm-debug.log*
+.npm/
+.eslintcache
+.stylelintcache
+
+# Serverless and cloud deployment configurations
+.serverless/
+.fseventsd
+
+# Diagnostic logs and application telemetry
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+
+# ==============================================================================
+# 3. OPERATING SYSTEM FILES
+# ==============================================================================
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+desktop.ini
