@@ -1,0 +1,14 @@
+{
+  "savedAt": 1780785404016,
+  "value": {
+    "ok": false,
+    "source": {
+      "id": "cartelera",
+      "name": "Cartelera CDMX",
+      "url": "https://cartelera.cdmx.gob.mx/busqueda",
+      "use": "Festividades y eventos"
+    },
+    "events": [],
+    "diagnostics": "No se detectaron eventos estructurados en el HTML publico."
+  }
+}

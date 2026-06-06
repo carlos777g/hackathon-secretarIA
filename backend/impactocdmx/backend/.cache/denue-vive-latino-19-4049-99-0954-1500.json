@@ -1,0 +1,716 @@
+{
+  "savedAt": 1780782552772,
+  "value": {
+    "ok": true,
+    "source": "denue_api",
+    "count": 4012,
+    "sectors": {
+      "comercio": 2846,
+      "restaurantes": 1112,
+      "hoteles": 6,
+      "transporte": 48
+    },
+    "businesses": [
+      {
+        "name": "CONFEDERACION DEPORTIVA MEXICANA",
+        "activity": "Asociaciones regulatorias de actividades recreativas",
+        "sector": "comercio",
+        "lat": 19.40544773,
+        "lng": -99.0972219
+      },
+      {
+        "name": "JUGOS Y LICUADOS SIN NOMBRE",
+        "activity": "Cafeterías, fuentes de sodas, neverías, refresquerías y similares",
+        "sector": "restaurantes",
+        "lat": 19.4026469,
+        "lng": -99.09582425
+      },
+      {
+        "name": "SERVICIO DE TORTAS Y REFRESCOS SIN NOMBRE",
+        "activity": "Restaurantes con servicio de preparación de tacos y tortas",
+        "sector": "restaurantes",
+        "lat": 19.40261909,
+        "lng": -99.09561547
+      },
+      {
+        "name": "MODULO DE HELADOS Y GOLOSINAS SIN NOMBRE",
+        "activity": "Comercio al por menor de dulces y materias primas para repostería",
+        "sector": "comercio",
+        "lat": 19.40259753,
+        "lng": -99.09545361
+      },
+      {
+        "name": "CENTRO PARAOLIMPICOS",
+        "activity": "Centros de acondicionamiento físico del sector público",
+        "sector": "comercio",
+        "lat": 19.40268502,
+        "lng": -99.09611039
+      },
+      {
+        "name": "CENDI 24 CARMEN SERDAN",
+        "activity": "Escuelas de educación preescolar del sector público",
+        "sector": "comercio",
+        "lat": 19.40257598,
+        "lng": -99.09529176
+      },
+      {
+        "name": "IFICED",
+        "activity": "Escuelas de educación superior del sector privado",
+        "sector": "comercio",
+        "lat": 19.40665628,
+        "lng": -99.09707464
+      },
+      {
+        "name": "FEDERACION MEXICANA DE MEDICINA DEL DEPORTE AC",
+        "activity": "Consultorios de medicina general del sector público",
+        "sector": "comercio",
+        "lat": 19.40666833,
+        "lng": -99.09707317
+      },
+      {
+        "name": "IOM DE MEXICO",
+        "activity": "Comercio al por mayor de equipo de telecomunicaciones, fotografía y cinematografía",
+        "sector": "comercio",
+        "lat": 19.4024413,
+        "lng": -99.09597009
+      },
+      {
+        "name": "GRUPO IMPORTADOR ZANTINI",
+        "activity": "Comercio al por menor de ropa, excepto de bebé y lencería",
+        "sector": "comercio",
+        "lat": 19.40244574,
+        "lng": -99.09600401
+      },
+      {
+        "name": "GRUPO EI MULTISERVICIOS LOGISTICOS",
+        "activity": "Servicios de agencias aduanales",
+        "sector": "comercio",
+        "lat": 19.40248106,
+        "lng": -99.09627386
+      },
+      {
+        "name": "TV CODICE",
+        "activity": "Servicios de recepción de llamadas telefónicas y promoción por teléfono",
+        "sector": "comercio",
+        "lat": 19.40248153,
+        "lng": -99.0962775
+      },
+      {
+        "name": "GRUPO EI EN COMERCIO EXTERIOR",
+        "activity": "Servicios de agencias aduanales",
+        "sector": "comercio",
+        "lat": 19.40248283,
+        "lng": -99.09628744
+      },
+      {
+        "name": "PALACIO DE LOS DEPORTES",
+        "activity": "Promotores del sector privado de espectáculos artísticos, culturales, deportivos y similares que cuentan con instalaciones para presentarlos",
+        "sector": "comercio",
+        "lat": 19.40476263,
+        "lng": -99.09811867
+      },
+      {
+        "name": "AFORE XXI BANORTE",
+        "activity": "Administración de cajas de pensión y de seguros independientes",
+        "sector": "comercio",
+        "lat": 19.40250284,
+        "lng": -99.09644029
+      },
+      {
+        "name": "ELECTRONICMA",
+        "activity": "Construcción de obras de generación y conducción de energía eléctrica",
+        "sector": "comercio",
+        "lat": 19.40250468,
+        "lng": -99.09645437
+      },
+      {
+        "name": "RGIS ESPECIALISTAS EN INVENTARIOS",
+        "activity": "Otros servicios de apoyo a los negocios",
+        "sector": "comercio",
+        "lat": 19.40250597,
+        "lng": -99.09646422
+      },
+      {
+        "name": "INFONACOT IZTACALCO",
+        "activity": "Fondos y fideicomisos financieros",
+        "sector": "comercio",
+        "lat": 19.40250793,
+        "lng": -99.09647918
+      },
+      {
+        "name": "GRUPO ASIS GRUPO DE ASISTENCIA JURIDICA",
+        "activity": "Agencias de cobranza",
+        "sector": "comercio",
+        "lat": 19.40231073,
+        "lng": -99.09497227
+      },
+      {
+        "name": "INE",
+        "activity": "Administración pública en general",
+        "sector": "comercio",
+        "lat": 19.40231073,
+        "lng": -99.09497227
+      },
+      {
+        "name": "QUANTUM SOLUCIONES DE TECNOLOGIA Y HARDWARE",
+        "activity": "Comercio al por menor de mobiliario, equipo y accesorios de cómputo",
+        "sector": "comercio",
+        "lat": 19.40231073,
+        "lng": -99.09497227
+      },
+      {
+        "name": "GRUPO DE ASISTENCIA JURIDICA",
+        "activity": "Servicios de recepción de llamadas telefónicas y promoción por teléfono",
+        "sector": "comercio",
+        "lat": 19.40231073,
+        "lng": -99.09497227
+      },
+      {
+        "name": "ZEBRA TECHNOLOGIES",
+        "activity": "Reparación y mantenimiento de otro equipo electrónico y de equipo de precisión",
+        "sector": "comercio",
+        "lat": 19.40231069,
+        "lng": -99.09497203
+      },
+      {
+        "name": "GRUPO ASIS",
+        "activity": "Agencias de cobranza",
+        "sector": "comercio",
+        "lat": 19.40231069,
+        "lng": -99.09497203
+      },
+      {
+        "name": "YKK MEXICANA",
+        "activity": "Fabricación de cierres, botones y agujas",
+        "sector": "comercio",
+        "lat": 19.40252173,
+        "lng": -99.09658469
+      },
+      {
+        "name": "IVONNE",
+        "activity": "Confección en serie de otra ropa exterior de materiales textiles",
+        "sector": "comercio",
+        "lat": 19.40253299,
+        "lng": -99.0966707
+      },
+      {
+        "name": "MALDONADO",
+        "activity": "Restaurantes con servicio de preparación de alimentos a la carta o de comida corrida",
+        "sector": "restaurantes",
+        "lat": 19.40254133,
+        "lng": -99.09673443
+      },
+      {
+        "name": "CORPORATIVO IVONNE",
+        "activity": "Comercio al por menor de ropa, excepto de bebé y lencería",
+        "sector": "comercio",
+        "lat": 19.4025578,
+        "lng": -99.09686035
+      },
+      {
+        "name": "TLACOYOS Y QUESADILLAS",
+        "activity": "Restaurantes con servicio de preparación de alimentos a la carta o de comida corrida",
+        "sector": "restaurantes",
+        "lat": 19.40257741,
+        "lng": -99.09701016
+      },
+      {
+        "name": "ANTOJITOS MEXICANOS",
+        "activity": "Restaurantes con servicio de preparación de antojitos",
+        "sector": "restaurantes",
+        "lat": 19.40258109,
+        "lng": -99.09703834
+      },
+      {
+        "name": "DELICIAS J",
+        "activity": "Restaurantes con servicio de preparación de antojitos",
+        "sector": "restaurantes",
+        "lat": 19.40259613,
+        "lng": -99.09715328
+      },
+      {
+        "name": "ADG TECHNOLOGIES",
+        "activity": "Comercio al por mayor de mobiliario, equipo, y accesorios de cómputo",
+        "sector": "comercio",
+        "lat": 19.40221528,
+        "lng": -99.09424297
+      },
+      {
+        "name": "LA CHIQUITA ABARROTES",
+        "activity": "Comercio al por menor en tiendas de abarrotes, ultramarinos y misceláneas",
+        "sector": "restaurantes",
+        "lat": 19.40262484,
+        "lng": -99.09737265
+      },
+      {
+        "name": "LEYHO",
+        "activity": "Comercio al por mayor de maquinaria y equipo agropecuario, forestal y para la pesca",
+        "sector": "comercio",
+        "lat": 19.40219726,
+        "lng": -99.09410529
+      },
+      {
+        "name": "CAFETERIA ESEF",
+        "activity": "Cafeterías, fuentes de sodas, neverías, refresquerías y similares",
+        "sector": "restaurantes",
+        "lat": 19.40647406,
+        "lng": -99.09813075
+      },
+      {
+        "name": "REVISTAS",
+        "activity": "Comercio al por menor de revistas y periódicos",
+        "sector": "comercio",
+        "lat": 19.40262996,
+        "lng": -99.09754581
+      },
+      {
+        "name": "EI CARGA Y DISTRIBUCION",
+        "activity": "Comercio al por mayor de otras materias primas para otras industrias",
+        "sector": "comercio",
+        "lat": 19.40215566,
+        "lng": -99.09378738
+      },
+      {
+        "name": "WEENJOY HOTELS AEROPUERTO CDMX",
+        "activity": "Hoteles con otros servicios integrados",
+        "sector": "hoteles",
+        "lat": 19.40245797,
+        "lng": -99.09765623
+      },
+      {
+        "name": "ESEF",
+        "activity": "Escuelas de educación superior del sector público",
+        "sector": "comercio",
+        "lat": 19.40650746,
+        "lng": -99.09837816
+      },
+      {
+        "name": "ESCUELA NACIONAL DE ENTRENADORES DEPORTIVOS",
+        "activity": "Escuelas de educación superior del sector público",
+        "sector": "comercio",
+        "lat": 19.40230738,
+        "lng": -99.09327215
+      },
+      {
+        "name": "UNIDAD DELEGACIONAL DE SERVICIO DE EMPLEO",
+        "activity": "Actividades administrativas de instituciones de bienestar social",
+        "sector": "comercio",
+        "lat": 19.40305503,
+        "lng": -99.0984445
+      },
+      {
+        "name": "PUESTO DE REVISTAS MARIA ELENA",
+        "activity": "Comercio al por menor de revistas y periódicos",
+        "sector": "comercio",
+        "lat": 19.40304056,
+        "lng": -99.09849171
+      },
+      {
+        "name": "DULCES ERIKA",
+        "activity": "Comercio al por menor en tiendas de abarrotes, ultramarinos y misceláneas",
+        "sector": "restaurantes",
+        "lat": 19.40208517,
+        "lng": -99.09324881
+      },
+      {
+        "name": "VESTINIÑA",
+        "activity": "Confección en serie de otra ropa exterior de materiales textiles",
+        "sector": "comercio",
+        "lat": 19.40151363,
+        "lng": -99.09625072
+      },
+      {
+        "name": "TUTOR FASHION",
+        "activity": "Confección en serie de otra ropa exterior de materiales textiles",
+        "sector": "comercio",
+        "lat": 19.40140508,
+        "lng": -99.09549488
+      },
+      {
+        "name": "TAMALES SIN NOMBRE",
+        "activity": "Servicios de preparación de otros alimentos para consumo inmediato",
+        "sector": "restaurantes",
+        "lat": 19.40208133,
+        "lng": -99.09321952
+      },
+      {
+        "name": "UNIDAD DE PROXIMIDAD CIUDADANA AÑIL",
+        "activity": "Mantenimiento de la seguridad y el orden público",
+        "sector": "comercio",
+        "lat": 19.40257973,
+        "lng": -99.09816616
+      },
+      {
+        "name": "ANTOJITOS MEXICANOS BRUNO",
+        "activity": "Restaurantes con servicio de preparación de antojitos",
+        "sector": "restaurantes",
+        "lat": 19.40139186,
+        "lng": -99.09540287
+      },
+      {
+        "name": "ANTOJITOS MARI",
+        "activity": "Restaurantes con servicio de preparación de antojitos",
+        "sector": "restaurantes",
+        "lat": 19.40207888,
+        "lng": -99.09320073
+      },
+      {
+        "name": "ESTACIONAMIENTO SIN NOMBRE",
+        "activity": "Estacionamientos y pensiones para vehículos automotores",
+        "sector": "transporte",
+        "lat": 19.40207765,
+        "lng": -99.09319134
+      },
+      {
+        "name": "ABARROTES LULU",
+        "activity": "Comercio al por menor en tiendas de abarrotes, ultramarinos y misceláneas",
+        "sector": "restaurantes",
+        "lat": 19.40137269,
+        "lng": -99.09526936
+      },
+      {
+        "name": "TORTERIA LOS COMPADRES",
+        "activity": "Restaurantes con servicio de preparación de tacos y tortas",
+        "sector": "restaurantes",
+        "lat": 19.4030376,
+        "lng": -99.09856712
+      },
+      {
+        "name": "MANUFACTURAS RAMIREZ TORNO",
+        "activity": "Maquinado de piezas metálicas para maquinaria y equipo en general",
+        "sector": "comercio",
+        "lat": 19.40136176,
+        "lng": -99.09519325
+      },
+      {
+        "name": "MASTER FORM",
+        "activity": "Impresión de formas continuas y otros impresos",
+        "sector": "comercio",
+        "lat": 19.40136113,
+        "lng": -99.09563256
+      },
+      {
+        "name": "ESTACIONAMIENTO PUBLICO",
+        "activity": "Estacionamientos y pensiones para vehículos automotores",
+        "sector": "transporte",
+        "lat": 19.4013562,
+        "lng": -99.09515458
+      },
+      {
+        "name": "TORTAS AIDE",
+        "activity": "Restaurantes con servicio de preparación de tacos y tortas",
+        "sector": "restaurantes",
+        "lat": 19.40206398,
+        "lng": -99.0930869
+      },
+      {
+        "name": "ANTOJITOS LUPITA",
+        "activity": "Restaurantes con servicio de preparación de antojitos",
+        "sector": "restaurantes",
+        "lat": 19.40160778,
+        "lng": -99.09690634
+      },
+      {
+        "name": "COSITAS MARY",
+        "activity": "Comercio al por menor de artículos de papelería",
+        "sector": "comercio",
+        "lat": 19.40205892,
+        "lng": -99.09304822
+      },
+      {
+        "name": "LOS FAROLITOS COMIDA CASERA",
+        "activity": "Restaurantes con servicio de preparación de alimentos a la carta o de comida corrida",
+        "sector": "restaurantes",
+        "lat": 19.40129231,
+        "lng": -99.09515601
+      },
+      {
+        "name": "ANTOJITOS SIN NOMBRE",
+        "activity": "Restaurantes que preparan otro tipo de alimentos para llevar",
+        "sector": "restaurantes",
+        "lat": 19.40163116,
+        "lng": -99.09706916
+      },
+      {
+        "name": "TIENDA 4 AÑIL",
+        "activity": "Comercio al por menor de ropa, excepto de bebé y lencería",
+        "sector": "comercio",
+        "lat": 19.40205374,
+        "lng": -99.09300871
+      },
+      {
+        "name": "IVONNE GRANJAS CDMX",
+        "activity": "Comercio al por menor de ropa, excepto de bebé y lencería",
+        "sector": "comercio",
+        "lat": 19.40205165,
+        "lng": -99.09299272
+      },
+      {
+        "name": "ARISTOTACOS",
+        "activity": "Restaurantes con servicio de preparación de antojitos",
+        "sector": "restaurantes",
+        "lat": 19.40205016,
+        "lng": -99.09298136
+      },
+      {
+        "name": "TALLER DE HERRERIA",
+        "activity": "Fabricación de productos de herrería",
+        "sector": "comercio",
+        "lat": 19.4012497,
+        "lng": -99.09486097
+      },
+      {
+        "name": "IMPOEXPOBOTON",
+        "activity": "Comercio al por mayor de otros productos textiles",
+        "sector": "comercio",
+        "lat": 19.40128238,
+        "lng": -99.09464053
+      },
+      {
+        "name": "ARROBA COMPUTERS DISTRIBUCION",
+        "activity": "Comercio al por mayor de mobiliario, equipo, y accesorios de cómputo",
+        "sector": "comercio",
+        "lat": 19.40126003,
+        "lng": -99.09448499
+      },
+      {
+        "name": "HMD PRODUCCIONES",
+        "activity": "Promotores del sector privado de espectáculos artísticos, culturales, deportivos y similares que cuentan con instalaciones para presentarlos",
+        "sector": "comercio",
+        "lat": 19.40122214,
+        "lng": -99.0946701
+      },
+      {
+        "name": "ECHE CORTINAS ANTIBACTERIANAS",
+        "activity": "Fabricación de persianas y cortineros",
+        "sector": "comercio",
+        "lat": 19.40121673,
+        "lng": -99.09463267
+      },
+      {
+        "name": "LA CASA DE LA MESA",
+        "activity": "Fabricación de muebles, excepto cocinas integrales, muebles modulares de baño y muebles de oficina y estantería",
+        "sector": "comercio",
+        "lat": 19.40120709,
+        "lng": -99.09456593
+      },
+      {
+        "name": "BCONNECT SERVICES",
+        "activity": "Servicios de recepción de llamadas telefónicas y promoción por teléfono",
+        "sector": "comercio",
+        "lat": 19.40202363,
+        "lng": -99.09277863
+      },
+      {
+        "name": "BOTOFIN",
+        "activity": "Fabricación de cierres, botones y agujas",
+        "sector": "comercio",
+        "lat": 19.40119495,
+        "lng": -99.09448187
+      },
+      {
+        "name": "LONCHERIA RICHARD",
+        "activity": "Restaurantes con servicio de preparación de antojitos",
+        "sector": "restaurantes",
+        "lat": 19.40163204,
+        "lng": -99.09750822
+      },
+      {
+        "name": "INDUSTRIAL JECAL",
+        "activity": "Fabricación de jabones, limpiadores y dentífricos",
+        "sector": "comercio",
+        "lat": 19.40122194,
+        "lng": -99.09421973
+      },
+      {
+        "name": "RESTAURANTE DE MARISCOS PREPARADOS EL PARAISO",
+        "activity": "Restaurantes con servicio de preparación de pescados y mariscos",
+        "sector": "restaurantes",
+        "lat": 19.4017186,
+        "lng": -99.09767804
+      },
+      {
+        "name": "LAS CASUELITAS",
+        "activity": "Restaurantes con servicio de preparación de alimentos a la carta o de comida corrida",
+        "sector": "restaurantes",
+        "lat": 19.40191182,
+        "lng": -99.09283386
+      },
+      {
+        "name": "ALIMPRAK",
+        "activity": "Comercio al por mayor de abarrotes",
+        "sector": "restaurantes",
+        "lat": 19.40121403,
+        "lng": -99.09416469
+      },
+      {
+        "name": "CHEMICAL ADDITIVES DE MEXICO",
+        "activity": "Comercio al por mayor de productos químicos para la industria farmacéutica y para otro uso industrial",
+        "sector": "comercio",
+        "lat": 19.40202034,
+        "lng": -99.09262912
+      },
+      {
+        "name": "OXXO SUC 50DTO AVENA MEX",
+        "activity": "Comercio al por menor en minisupers",
+        "sector": "comercio",
+        "lat": 19.4016613,
+        "lng": -99.09771095
+      },
+      {
+        "name": "DESPACHO ADJO",
+        "activity": "Servicios de apoyo para efectuar trámites legales",
+        "sector": "comercio",
+        "lat": 19.40177605,
+        "lng": -99.09290092
+      },
+      {
+        "name": "JARCIERIA",
+        "activity": "Comercio al por menor de artículos para la limpieza",
+        "sector": "comercio",
+        "lat": 19.40169526,
+        "lng": -99.09294083
+      },
+      {
+        "name": "MARSEL",
+        "activity": "Confección en serie de otra ropa exterior de materiales textiles",
+        "sector": "comercio",
+        "lat": 19.40199606,
+        "lng": -99.09247322
+      },
+      {
+        "name": "OXXO SUC 50MRE RESINA MEX",
+        "activity": "Comercio al por menor en minisupers",
+        "sector": "comercio",
+        "lat": 19.4015527,
+        "lng": -99.09301124
+      },
+      {
+        "name": "PUESTO DE REVISTAS Y PERIODICOS",
+        "activity": "Comercio al por menor de revistas y periódicos",
+        "sector": "comercio",
+        "lat": 19.40152551,
+        "lng": -99.0977652
+      },
+      {
+        "name": "DESPACHO CONTABLE ARVI",
+        "activity": "Servicios de contabilidad y auditoría",
+        "sector": "comercio",
+        "lat": 19.40153366,
+        "lng": -99.09302065
+      },
+      {
+        "name": "PAPELERIA MALDO",
+        "activity": "Comercio al por menor de artículos de papelería",
+        "sector": "comercio",
+        "lat": 19.40143506,
+        "lng": -99.09777617
+      },
+      {
+        "name": "DESPACHO CONTABLE DE LAS ESTRELLAS",
+        "activity": "Servicios de contabilidad y auditoría",
+        "sector": "comercio",
+        "lat": 19.40156544,
+        "lng": -99.09281748
+      },
+      {
+        "name": "SIDECO",
+        "activity": "Comercio al por mayor de maquinaria y equipo para la industria manufacturera",
+        "sector": "comercio",
+        "lat": 19.40112778,
+        "lng": -99.09356419
+      },
+      {
+        "name": "PARK AUTO",
+        "activity": "Estacionamientos y pensiones para vehículos automotores",
+        "sector": "transporte",
+        "lat": 19.40314978,
+        "lng": -99.09939686
+      },
+      {
+        "name": "TACOS DON CHAVA",
+        "activity": "Restaurantes con servicio de preparación de tacos y tortas",
+        "sector": "restaurantes",
+        "lat": 19.40149339,
+        "lng": -99.09284732
+      },
+      {
+        "name": "IMPRESOS FACTURACION ELECTRONICA",
+        "activity": "Servicios de contabilidad y auditoría",
+        "sector": "comercio",
+        "lat": 19.40142925,
+        "lng": -99.09287387
+      },
+      {
+        "name": "PANASONIC MEXICO RESINA",
+        "activity": "Comercio al por mayor de electrodomésticos menores y aparatos de línea blanca",
+        "sector": "comercio",
+        "lat": 19.4011759,
+        "lng": -99.09319736
+      },
+      {
+        "name": "SERVICIO MECANICO AUTODROMO",
+        "activity": "Reparación mecánica en general de automóviles y camiones",
+        "sector": "comercio",
+        "lat": 19.40919887,
+        "lng": -99.095114
+      },
+      {
+        "name": "BBVA BANCOMER CDMX CHURUBUSCO",
+        "activity": "Banca múltiple",
+        "sector": "comercio",
+        "lat": 19.40178338,
+        "lng": -99.09856526
+      },
+      {
+        "name": "LA CASA DE TOÑO",
+        "activity": "Restaurantes con servicio de preparación de antojitos",
+        "sector": "restaurantes",
+        "lat": 19.40842791,
+        "lng": -99.09272594
+      },
+      {
+        "name": "AUTODROMO HERMANOS RODRIGUEZ",
+        "activity": "Equipos deportivos profesionales",
+        "sector": "comercio",
+        "lat": 19.40842511,
+        "lng": -99.09270517
+      },
+      {
+        "name": "ALMACENES AUDIOVISUALES",
+        "activity": "Comercio al por mayor de equipo de telecomunicaciones, fotografía y cinematografía",
+        "sector": "comercio",
+        "lat": 19.40296645,
+        "lng": -99.09953076
+      },
+      {
+        "name": "COCINA EL GORDO Y EL FLACO",
+        "activity": "Restaurantes con servicio de preparación de alimentos a la carta o de comida corrida",
+        "sector": "restaurantes",
+        "lat": 19.40169389,
+        "lng": -99.09854028
+      },
+      {
+        "name": "FORO SOL",
+        "activity": "Promotores del sector privado de espectáculos artísticos, culturales, deportivos y similares que cuentan con instalaciones para presentarlos",
+        "sector": "comercio",
+        "lat": 19.40841728,
+        "lng": -99.09264701
+      },
+      {
+        "name": "DESAYUNADOR SIN NOMBRE",
+        "activity": "Restaurantes que preparan otro tipo de alimentos para llevar",
+        "sector": "restaurantes",
+        "lat": 19.40165821,
+        "lng": -99.09854533
+      },
+      {
+        "name": "GRUAS LAREDO SERVICES",
+        "activity": "Servicios de grúa",
+        "sector": "comercio",
+        "lat": 19.40049714,
+        "lng": -99.0960045
+      }
+    ]
+  }
+}
